@@ -1,8 +1,8 @@
 
-import vueUedutor from './vue-uedutor.vue'
+import vueUeditor from './vue-ueditor.vue'
 
-vueUedutor.install = function (Vue) {
-    Vue.components(vueUedutor.name, vueUedutor)
+vueUeditor.install = function (Vue) {
+    Vue.components(vueUeditor.name, vueUeditor)
 }
 
-export default vueUedutor
+export default vueUeditor

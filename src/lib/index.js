@@ -1,8 +1,8 @@
 // 引入组件
-import vueUedutor from './ueditor/index.js'
+import vueUeditor from './ueditor/index.js'
 
 const components = [
-    vueUedutor
+    vueUeditor
 ]
 
 const install = function (Vue, opts) {
@@ -21,5 +21,5 @@ if (typeof window !== 'undefined' && window.Vue) {
 
 export default {
     install,
-    vueUedutor
+    vueUeditor
 }

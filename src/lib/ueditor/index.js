@@ -1,4 +1,3 @@
-
 import vueUeditor from './vue-ueditor.vue'
 
 vueUeditor.install = function (Vue) {

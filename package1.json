@@ -1,0 +1,27 @@
+{
+  "name": "vue-ueditor-async",
+  "version": "1.0.0",
+  "description": "a ueditor for vue ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bettermo/ueditor.git"
+  },
+  "keywords": [
+    "ueditor",
+    "vue"
+  ],
+  "author": "bettermo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bettermo/ueditor/issues"
+  },
+  "homepage": "https://github.com/bettermo/ueditor#readme",
+  "dependencies": {
+    "chromedriver": "^77.0.0",
+    "vue": "^2.6.10"
+  }
+}
